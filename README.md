@@ -1,1 +1,1 @@
-# msft-stock-price-prediction
+# Microsoft Stock Price Prediction
